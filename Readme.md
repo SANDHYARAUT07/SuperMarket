@@ -21,7 +21,6 @@ The dashboard is built using *Power BI, leveraging a **CSV/Excel dataset* contai
 
 ## 🚀 Key Insights
 - Peak sales occur during weekends, with higher revenue from specific categories.
-- Credit card transactions dominate payment methods.
 - Certain branches outperform others in sales and profit margins.
 - Seasonal trends impact product sales significantly.
 
